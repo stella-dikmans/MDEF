@@ -1,5 +1,5 @@
 ## Welcome
 
-![](../images/perezoso.jpg)
+![](../images/perezoso.jpg)<img width="543" alt="3" src="https://user-images.githubusercontent.com/115219314/194565879-03bfa478-c434-4e3f-a84c-4cef814ed49d.png">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+welcome to my performative habitat. Living in an age of mass extinction, as one of the privileged thriving ones...
