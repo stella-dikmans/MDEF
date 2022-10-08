@@ -4,7 +4,8 @@
 
 welcome to my performative habitat. Living in an age of mass extinction, as one of the priviledged thriving ones...
 
-![my fight GitHub](https://user-images.githubusercontent.com/115219314/194728123-1b2b0283-35bd-4760-9d2e-82c339a79918.jpg)
+
+
 
 
 my fight... 
@@ -29,6 +30,8 @@ we are thus faced with a growing gap between the ability to do things and abilit
 
 my practice aims to make climate change affects ‘small’ and handleable on a global scale by making them known. getting comfortable with the thought of not having a somewhere else to throw shit at; to create awareness that its all the same place; that there is only here, only this world with all its differences and human and non-human organisms that are equally worth protecting and thriving. 
 in the end this has something to do with the notion of relevance. relevance as subjective and relative, determined by its space-time conditions. what do we learn to know and what do we not? what has the relevance to be known/ be experienced? to give relevance to the manifold relationships between human and non-human organisms can create awareness of our circular interdependencies and its unknown territories. the knowledge and resources to distribute the impacts of climate change equally are available in a great variety of storytelling, some of us have also experienced its applications. it is just about making it approachable. 
+
+![my fight GitHub](https://user-images.githubusercontent.com/115219314/194728123-1b2b0283-35bd-4760-9d2e-82c339a79918.jpg)
 
 Sources:
 
