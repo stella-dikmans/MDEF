@@ -4,7 +4,8 @@
 
 welcome to my performative habitat. Living in an age of mass extinction, as one of the priviledged thriving ones...
 
-[my fight hotglue material.pdf](https://github.com/stella-dikmans/MDEF2022/files/9740264/my.fight.hotglue.material.pdf)
+![my fight GitHub](https://user-images.githubusercontent.com/115219314/194728123-1b2b0283-35bd-4760-9d2e-82c339a79918.jpg)
+
 
 my fight... 
 
