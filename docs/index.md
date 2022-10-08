@@ -31,19 +31,18 @@ my practice aims to make climate change affects ‘small’ and handleable on a 
 in the end this has something to do with the notion of relevance. relevance as subjective and relative, determined by its space-time conditions. what do we learn to know and what do we not? what has the relevance to be known/ be experienced? to give relevance to the manifold relationships between human and non-human organisms can create awareness of our circular interdependencies and its unknown territories. the knowledge and resources to distribute the impacts of climate change equally are available in a great variety of storytelling, some of us have also experienced its applications. it is just about making it approachable. 
 
 Sources:
-Anna Tsing, the mushroom at the end of the world https://www.academia.edu/40320405/The_Mushroom_at_the_End_of_the_World_Anna_Tsing (2015), https://www.youtube.com/watch?v=f8MhBwsKdJA (2021), 
 
-Bruno Latour 
+Anna Tsing, the mushroom at the end of the world (2015), https://www.youtube.com/watch?v=f8MhBwsKdJA (2021),...
 
-Donna Haraway (string figures, speculative fabulation), staying with the trouble,  https://www.dukeupress.edu/staying-with-the-trouble (2016), https://www.youtube.com/watch?v=GrYA7sMQaBQ (2017), https://www.youtube.com/watch?v=zFGXTQnJETg (2016), 
+Donna Haraway (string figures, speculative fabulation), staying with the trouble (2016), https://www.youtube.com/watch?v=GrYA7sMQaBQ (2017), https://www.youtube.com/watch?v=zFGXTQnJETg (2016),...
 
-Manuel Castells (space of flows), https://tspace.library.utoronto.ca/bitstream/1807/94355/1/184%20Castells%201991%20The%20Informational%20City.pdf (1991), 
+Manuel Castells (space of flows), https://tspace.library.utoronto.ca/bitstream/1807/94355/1/184%20Castells%201991%20The%20Informational%20City.pdf (1991),...
 
-Timothy Morton (dark ecology), all art is ecological, https://books.google.es/books?id=tH8hEAAAQBAJ&printsec=frontcover&dq=timothy+morton+dark+ecology&hl=de&sa=X&redir_esc=y#v=onepage&q=timothy%20morton%20dark%20ecology&f=false (2021), https://iscp-nyc.org/event/timothy-morton-and-you-may-find-yourself-living-in-an-age-of-mass-extinction (2016), 
+Timothy Morton (dark ecology), all art is ecological (2021), https://iscp-nyc.org/event/timothy-morton-and-you-may-find-yourself-living-in-an-age-of-mass-extinction (2016),...
 
-Ursula Le Guin, art of living on a damaged planet https://www.jstor.org/stable/10.5749/j.ctt1qft070 (2017), https://vimeo.com/388580186 (2014), 
+Ursula Le Guin, art of living on a damaged planet (2017), https://vimeo.com/388580186 (2014),...
 
-Yuval Noah Harari, sapienship, https://www.sapienship.co/decision-makers/2-percent-more?_gl=1*11o2nqw*_ga*MTY0Mzk0MDMwOS4xNjY0NTQ0NDQz*_up*MQ (2022), https://time.com/6132395/two-percent-climate-solution/ (2022), https://www.ted.com/talks/yuval_noah_harari_the_actual_cost_of_preventing_climate_breakdown (2022), 
+Yuval Noah Harari, sapienship, https://www.sapienship.co/decision-makers/2-percent-more?_gl=1*11o2nqw*_ga*MTY0Mzk0MDMwOS4xNjY0NTQ0NDQz*_up*MQ (2022), https://time.com/6132395/two-percent-climate-solution/ (2022), https://www.ted.com/talks/yuval_noah_harari_the_actual_cost_of_preventing_climate_breakdown (2022),...
 
-Zygmunt Bauman (liquid modernity, power vs. politics, continuous uncertainty), https://www.youtube.com/watch?v=73Nmv-4jvSc (2011), https://www.youtube.com/watch?v=zvfLpptUIh4&t=248s (2010), 
+Zygmunt Bauman (liquid modernity, power vs. politics, continuous uncertainty), https://www.youtube.com/watch?v=73Nmv-4jvSc (2011), https://www.youtube.com/watch?v=zvfLpptUIh4&t=248s (2010),... 
 
