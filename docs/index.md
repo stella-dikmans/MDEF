@@ -8,7 +8,7 @@ welcome to my performative habitat. Living in an age of mass extinction, as one 
 
 
 
-my fight... 
+my fight... hihi
 
 as a pacifist I am against any kind of violence. 
 so let me rephrase: I work against global inequalities and for an equal distribution of the impacts of climate change and expansive responses to them. 
