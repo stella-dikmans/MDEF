@@ -1,9 +1,9 @@
 # Replace the text below to customize your site
-site_name: DiStel - IAAC & Fab Lab Barcelona
+site_name: Distel - IAAC & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: DiStel
-copyright: Copyleft 2021 "DiStel" - GNU Free Documentation License
-repo_name: 'Name : DiStel@IAAC'
+site_author: Distel
+copyright: Copyleft 2021 "Distel" - GNU Free Documentation License
+repo_name: 'Name : Distel@IAAC'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
@@ -15,8 +15,8 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
+          - Bootcamp: temr1/01-Bootcamp.md
+          - AoWS: temr1/02-Atlas of Weak Signals.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
