@@ -1,8 +1,8 @@
 # About
 
-![IMG_6297](https://user-images.githubusercontent.com/115219314/194728279-77dea7db-da84-459b-9843-01a67310102e.JPG)
+![](../images/about/me.jpg)
 
-i love claudia 
+i love claudia
 
 
 My name is Stella (she/her), I am a 25-year-old German-Dutch who grew up in Berlin. I am aware of the ongoing environmental changes and climate catastrophes that our societies are confronted with to unprecedented degrees. Therefore, this is the constant background music to my practice.
