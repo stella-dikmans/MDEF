@@ -10,8 +10,9 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - home: index.md
-  - about: aboutme/me.md
+  - about:
     - new: aboutme/you.md
+    - me: aboutme/me.md
   - master project:
       - Initial ideas: project/project.md
   - reflections :
