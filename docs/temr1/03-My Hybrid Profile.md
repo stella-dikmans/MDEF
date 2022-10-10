@@ -7,5 +7,4 @@ hide:
 
 ![](images/myhybridprofile/myhybridprofile.jpg)
 
-
 hello
