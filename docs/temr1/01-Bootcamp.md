@@ -5,7 +5,7 @@ hide:
 
 # Bootcamp
 
-![](../images/bootcamp/me.jpg)
+![](images/bootcamp/me.jpg)
 
 hello
 
