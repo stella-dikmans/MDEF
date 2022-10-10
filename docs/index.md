@@ -1,4 +1,9 @@
-## my not so secret garden
+---
+hide:
+    - toc
+---
+
+# my not so secret garden
 
 ![](../images/my_fight/frontpage.png)
 

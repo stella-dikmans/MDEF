@@ -9,17 +9,17 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - Home: index.md
-  - About: about/me.md
-  - Master project:
+  - home: index.md
+  - about: about/me.md
+  - master project:
       - Initial ideas: project/project.md
-  - Reflections :
-      - Term 1:
+  - reflections :
+      - term 1:
           - bootcamp: temr1/01-Bootcamp.md
           - AoWS: temr1/02-Atlas of Weak Signals.md
           - hybrid profile: temr1/03-My Hybrid Profile.md
           - fight: temr1/04-fight.md
-      - Term 2:
+      - term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
 
