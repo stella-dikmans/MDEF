@@ -5,7 +5,7 @@ hide:
 
 # my non-fight
 
-![](images/myfight/poster.jpg)
+![](../images/myfight/poster.jpg)
 
 my fight...
 
