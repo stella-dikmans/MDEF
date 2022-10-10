@@ -15,9 +15,9 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Bootcamp: temr1/01-Bootcamp.md
+          - bootcamp: temr1/01-Bootcamp.md
           - AoWS: temr1/02-Atlas of Weak Signals.md
-
+          - hybrid profile: temr1/03-My Hybrid Profile.md
       - Term 2:
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
@@ -47,7 +47,7 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Didact Gothic 
+    text: Didact Gothic
     code: Cutive Mono
   icon:
     logo: material/memory

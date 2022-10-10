@@ -3,6 +3,9 @@ hide:
     - toc
 ---
 
-# Bootcamp
+# my hybrid profile
+
+![](../images/myhybridprofile/myhybridprofile.jpg)
+
 
 hello
