@@ -9,22 +9,23 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
 nav:
-  - home: index.md
-  - about:
-      - me: aboutme/me.md
-  - master project:
-      - Initial ideas: project/project.md
-  - reflections :
-      - term 1:
+  - home : index.md
+  - practice :
+      - Initial ideas : project/project.md
+  - process :
+      - semester 1 :
           - AoWS:
             - designspaces: temr1/aows/designspace_01.md
           - Designstudio:
             - hybrid profile: temr1/designstudio/myhybridprofile.md
-      - term 2:
+      - semester 2 :
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
-
-
+      - semester 3 :
+          - digi: term1/01-Bootcamp.md
+          - studio: term1/01-Bootcamp.md
+  - context :
+      - me: aboutme/me.md
 
 
 extra:
