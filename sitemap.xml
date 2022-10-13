@@ -2,42 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/aboutme/me/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/aboutme/you/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/temr1/01-Bootcamp/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/temr1/fight/</loc>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/temr1/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/temr1/aows/designspace_01/</loc>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/temr1/03-My%20Hybrid%20Profile/</loc>
-         <lastmod>2022-10-11</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/temr1/04-fight/</loc>
-         <lastmod>2022-10-11</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/temr1/designstudio/myhybridprofile/</loc>
+         <lastmod>2022-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
