@@ -1,8 +1,3 @@
----
-hide:
-    - toc
----
-
 # my not so secret garden
 
 ![](images/home/frontpage.png)
