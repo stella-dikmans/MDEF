@@ -12,7 +12,6 @@ nav:
   - home: index.md
   - about:
       - me: aboutme/me.md
-      - for you: aboutme/you.md
   - master project:
       - Initial ideas: project/project.md
   - reflections :
