@@ -5,6 +5,8 @@ hide:
 
 # my hybrid profile
 
-![](../images/myhybridprofile/myhybridprofile.jpg)
+![](../images/myhybridprofile/myhybridprofile.png)
+
+![](/images/myhybridprofile/intent.png)
 
 hello
