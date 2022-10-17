@@ -5,6 +5,8 @@ hide:
 
 # design spaces
 
+![](../../images/AoWS/designspaces/designspaces01.png)
+
 my weak signals are: “fight Anthropocene conflicts”, “technology for equality”, and “inter-species collaboration”.
 my areas of opportunity are: “multi-scalar thinking”, “environmental sensing”, “co-creation”.
 additionally, I included “narrative creation”, “environmental health”, and “universal rights” into my most important set of terms.
@@ -22,4 +24,6 @@ the following design-spaces are based on these experiences and the resulting int
 
 **[miro board](https://miro.com/app/board/uXjVPOivXXw=/)**
 
-![](../../images/AoWS/weaksignal.JPG)
+![](../../images/AoWS/designspaces/designspaces03.png)
+
+![](../../images/AoWS/designspaces/designspaces02.png)
