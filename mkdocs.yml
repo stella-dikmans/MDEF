@@ -26,9 +26,9 @@ nav:
           - studio: term1/01-Bootcamp.md
   - context :
       - me:
-        - me: aboutme/me.md
-      - my fight: 
-        - my fight: aboutme/fight.md
+        - aboutme/me.md
+      - my fight:
+        - aboutme/fight.md
 
 
 extra:
