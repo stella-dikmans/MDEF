@@ -10,8 +10,6 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 nav:
   - home : index.md
-  - practice :
-      - Initial ideas : project/project.md
   - process :
       - semester 1 :
           - AoWS:
@@ -19,12 +17,16 @@ nav:
             - multi scalar thinking: temr1/aows/multiscalarthinking.md
           - Designstudio:
             - hybrid profile: temr1/designstudio/myhybridprofile.md
+          - Bio&Agri:
+            - we will see: temr1/bio&agri/wewillsee.md
       - semester 2 :
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
       - semester 3 :
           - digi: term1/01-Bootcamp.md
           - studio: term1/01-Bootcamp.md
+  - practice :
+      - Initial ideas : project/project.md
   - context :
       - me: aboutme/me.md
       - my fight: aboutme/fight.md
