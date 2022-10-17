@@ -5,8 +5,10 @@ hide:
 
 # my hybrid profile
 
-![](../../images/myhybridprofile/myhybridprofile.png)
+![](../../images/myhybridprofile/goals/coursesrelatedgoals.png)
 
-![](../../images/myhybridprofile/intent.png)
+![](../../images/myhybridprofile/goals/intent.png)
+
+![](../../images/myhybridprofile/goals/currentandfuturemeA4.png)
 
 hello you
