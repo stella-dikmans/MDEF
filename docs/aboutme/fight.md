@@ -1,6 +1,6 @@
 # my fight
 
-![](../images/myfight/poster01.jpg)
+![](../images/myfight/fightposter.jpg)
 
 my fight...
 

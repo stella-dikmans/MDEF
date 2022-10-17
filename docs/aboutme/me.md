@@ -1,6 +1,6 @@
 # about me
 
-![](../images/about/IMG_6297.JPG)
+![](../images/about/me.JPG)
 
 my name is Stella (she/her), I am a in 1996  born German-Dutch who grew up in Berlin. I am aware of the ongoing environmental changes and climate catastrophes that our societies are confronted with to unprecedented degrees. Therefore, this is the constant background music to my practice.
 As a sociologist, artist and architectural thinker, I am convinced that the thorough study of how human and non-human structures learn and unlearn will feed into our understanding of how they are embedded in a global ever-changing environment - and how possible reactions to these changes could look like.
