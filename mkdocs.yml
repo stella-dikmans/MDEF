@@ -15,8 +15,8 @@ nav:
   - process :
       - semester 1 :
           - AoWS:
-            - multiscalarthinking: temr1/aows/multiscalarthinking.md
             - designspaces: temr1/aows/designspace_01.md
+            - multi scalar thinking: temr1/aows/multiscalarthinking.md
           - Designstudio:
             - hybrid profile: temr1/designstudio/myhybridprofile.md
       - semester 2 :
