@@ -20,4 +20,6 @@ I think I had my first culture shock when I was 16, arriving back from a four mo
 
 the following design-spaces are based on these experiences and the resulting interests. it is hard for me to choose, narrow-down and focus on one line of thought, therefore the many sprouting roots that search still seek for connectivity…
 
+**[miro board](https://miro.com/app/board/uXjVPOivXXw=/)**
+
 ![](../../images/AoWS/weaksignal.JPG)
